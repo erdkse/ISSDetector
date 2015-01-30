@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ISS Detector</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_show_location">Lokasyon belirle</string>
+    <string name="btn_show_iss">ISS Göster</string>
+    <string name="tv_show_time">Görünecek süre   :</string>
+    <string name="tv_rise_time">Doğma saati      :</string>
+
+</resources>
